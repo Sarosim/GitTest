@@ -1,0 +1,16 @@
+/*This is also the initial version*/
+
+body{
+    border-bottom-width: 5px;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: auto;
+    text-align: center;
+    padding: auto;
+    line-height: 100px;
+    font-size: large;
+    font-weight: bold;
+}
